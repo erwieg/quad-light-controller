@@ -29,4 +29,4 @@ LEDs will power on upon USB connection, default mode is `All` mode
 
 ## License
 
-The hardware of this project is licensed under the [CERN Open Hardware License](https://ohwr.org/cern_ohl_s_v2.txt), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+The hardware of this project is licensed under the [CERN Open Hardware License](https://ohwr.org/cern_ohl_s_v2.txt), and the underlying source code is licensed under the [MIT license](LICENSE.md).
